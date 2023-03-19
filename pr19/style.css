@@ -1,0 +1,11 @@
+.halfpage{
+    width: 50%;
+}
+.toflex{
+    display: flex;
+}
+div{
+    justify-content: center;
+    text-align: center;
+    border: 1px black solid;
+}

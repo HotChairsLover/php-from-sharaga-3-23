@@ -1,0 +1,27 @@
+.halfpage{
+    width: 50%;
+}
+.toflex{
+    display: flex;
+}
+div{
+    justify-content: center;
+    text-align: center;
+    border: 1px black solid;
+}
+.avatar{
+    width: 400px;
+    height: 400px;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+li{
+    margin-right: 10px;
+}
