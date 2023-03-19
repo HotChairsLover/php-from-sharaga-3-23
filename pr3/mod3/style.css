@@ -1,0 +1,8 @@
+div{
+    display: flex;
+}
+p{
+    background: lightblue;
+    margin: 5px;
+    padding: 5px;
+}
